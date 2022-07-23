@@ -1,6 +1,6 @@
 # Binary-Search-Tree
 
-1- Binary Search Tree Aşamaları
+## 1- Binary Search Tree Aşamaları
 
 Root 7'dir. Eğer okuduğumuz sayı 7'den büyükse sağına, 7'den küçükse soluna yazılr.
 
