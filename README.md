@@ -93,4 +93,4 @@ Root 7'dir. Eğer okuduğumuz sayı 7'den büyükse sağına, 7'den küçükse s
 Worst Case: O(n)
 Best Case: O(logn)
 
-[Patika](app.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
+[Patika](https://www.patika.dev/)
